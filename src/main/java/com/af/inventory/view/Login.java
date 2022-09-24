@@ -12,7 +12,7 @@ import java.awt.Color;
 
 /**
  *
- * @author Ismael
+ * @author Ismael Farinango
  */
 public class Login extends javax.swing.JFrame {
     private int xmouse,ymouse;
