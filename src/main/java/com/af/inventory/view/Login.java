@@ -24,7 +24,7 @@ public class Login extends javax.swing.JFrame {
         loginImage.setSize(221, 221);
         new AdjustImage().adjustSize(loginImage,"/img/inventory.jpg");
         new Placeholder(txtUser,"Usuario");
-        new Placeholder(passwordTxt, "Constraseña");
+        new Placeholder(passwordTxt, "Contraseña");
     }
 
     /**
